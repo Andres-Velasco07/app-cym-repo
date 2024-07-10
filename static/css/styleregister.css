@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+div {
+    text-align: center;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+button {
+    font-size: 30px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+    margin-right: 2%;
+    margin-left: 2%;
+}
+
+form {
+    text-align: center;
+}
